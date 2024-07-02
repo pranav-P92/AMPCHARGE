@@ -1,0 +1,954 @@
+[
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.34773,
+        17.42386
+      ]
+    },
+    "_id": "667f08021f87c3ed649ad9b7",
+    "area": "Gachibowli",
+    "name": "Tata Power - Fairfield by Marriott Charging Station",
+    "address": "Road No. 2, Financial District, Gachibowli, Hyderabad, Telangana",
+    "contact": " 8527000290",
+    "capacity": 25,
+    "connectorsType": [
+      "CCS-II",
+      "CHAdeMO"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "06:00",
+        "endTime": "07:00",
+        "_id": "667f08021f87c3ed649ad9b8"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "_id": "667f08021f87c3ed649ad9b9"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "_id": "667f08021f87c3ed649ad9ba"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f08021f87c3ed649ad9bb"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f08021f87c3ed649ad9bc"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "667f08021f87c3ed649ad9bd"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "_id": "667f08021f87c3ed649ad9be"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f08021f87c3ed649ad9bf"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "_id": "667f08021f87c3ed649ad9c0"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.429756,
+        17.42447
+      ]
+    },
+    "_id": "667f0c981f87c3ed649ada8a",
+    "area": "Banjara Hills",
+    "name": "Park Hyatt EVRE Charger",
+    "address": "Park Hyatt, Road No. 2, Sri Nagar Colony, Kamalapuri Colony, Banjara Hills, Hyderabad, Telangana 500034, India",
+    "contact": " 040-49491234",
+    "capacity": 25,
+    "connectorsType": [
+      "CCS-II"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "_id": "667f0c981f87c3ed649ada8b"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "_id": "667f0c981f87c3ed649ada8c"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f0c981f87c3ed649ada8d"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f0c981f87c3ed649ada8e"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f0c981f87c3ed649ada8f"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "_id": "667f0c981f87c3ed649ada90"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f0c981f87c3ed649ada91"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "_id": "667f0c981f87c3ed649ada92"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "_id": "667f0c981f87c3ed649ada93"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4351,
+        17.425306
+      ]
+    },
+    "_id": "667f0d5f1f87c3ed649adabb",
+    "area": "Banjara Hills",
+    "name": "TSG Heights Commercial Complex",
+    "address": "8-2-120/45, TSG Heights, Road No 2, Banjara Hills, Hyderabad Telangana, NH 52, Chainage 454 RHS, Vill, Hyderabad",
+    "contact": "9275653123",
+    "capacity": 60,
+    "connectorsType": [
+      "CCS-II"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f0d5f1f87c3ed649adabc"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f0d5f1f87c3ed649adabd"
+      },
+      {
+        "date": "2024-07-02",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "_id": "667f0d5f1f87c3ed649adabe"
+      },
+      {
+        "date": "2024-07-02",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f0d5f1f87c3ed649adabf"
+      },
+      {
+        "date": "2024-07-02",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f0d5f1f87c3ed649adac0"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.44092,
+        17.408075
+      ]
+    },
+    "_id": "667f0dec1f87c3ed649adaf2",
+    "area": " Banjara Hills",
+    "name": "LA MAISON CITROËN_Banjara Hills",
+    "address": "#8-2-686/B/12 A & B, Road No. 12, Banjara Hills, Hyderabad, Telangana, 500034",
+    "contact": "8234534221",
+    "capacity": 40,
+    "connectorsType": [
+      "CCS-II"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "_id": "667f0dec1f87c3ed649adaf3"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "_id": "667f0dec1f87c3ed649adaf4"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "_id": "667f0dec1f87c3ed649adaf5"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f0dec1f87c3ed649adaf6"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "_id": "667f0dec1f87c3ed649adaf7"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "_id": "667f0dec1f87c3ed649adaf8"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4016822,
+        17.4546247
+      ]
+    },
+    "_id": "667f0e751f87c3ed649adb36",
+    "area": "Banjara Hills",
+    "name": "Trendset Grande RWA, Block A (Private Charger)",
+    "address": "6-3-252, Opp More Mega Store, Irrum Manzil Colony, Banjara Hills, Hyderabad, Telangana 500082, Hyderabad",
+    "contact": "9234453219",
+    "capacity": 44,
+    "connectorsType": [
+      "CCS-II",
+      "GB/T"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "_id": "667f0e751f87c3ed649adb37"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f0e751f87c3ed649adb38"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f0e751f87c3ed649adb39"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f0e751f87c3ed649adb3a"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "667f0e751f87c3ed649adb3b"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "_id": "667f0e751f87c3ed649adb3c"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.46691,
+        17.44417
+      ]
+    },
+    "_id": "667f12b51f87c3ed649ae0ee",
+    "area": "Begumpet",
+    "name": "Lotus Flora",
+    "address": "1-10 42, 2, Begumpet Rd, Old Patigadda, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016",
+    "contact": "8888128345",
+    "capacity": 66,
+    "connectorsType": [
+      "Bharat DC001",
+      "CHAdeMO",
+      "GB/T"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "_id": "667f12b51f87c3ed649ae0ef"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "_id": "667f12b51f87c3ed649ae0f0"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "_id": "667f12b51f87c3ed649ae0f1"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f12b51f87c3ed649ae0f2"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "_id": "667f12b51f87c3ed649ae0f3"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "_id": "667f12b51f87c3ed649ae0f4"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "_id": "667f12b51f87c3ed649ae0f5"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "21:00",
+        "endTime": "22:00",
+        "_id": "667f12b51f87c3ed649ae0f6"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.41046,
+        17.435684
+      ]
+    },
+    "_id": "667f139b1f87c3ed649ae20e",
+    "area": "Jubilee Hills",
+    "name": "Tiger Lily Cafe and Bistro",
+    "address": "272, Road Number 10,near SBricks Castle Pvt. Ltd, Jubilee Hills Hyderabad Telangana 500033",
+    "contact": "9235524210",
+    "capacity": 40,
+    "connectorsType": [
+      "CCS-II",
+      "GB/T",
+      "Bharat DC001",
+      "CHAdeMO"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f139b1f87c3ed649ae20f"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "_id": "667f139b1f87c3ed649ae210"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "_id": "667f139b1f87c3ed649ae211"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "_id": "667f139b1f87c3ed649ae212"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "21:00",
+        "endTime": "22:00",
+        "_id": "667f139b1f87c3ed649ae213"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "22:00",
+        "endTime": "23:00",
+        "_id": "667f139b1f87c3ed649ae214"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "23:00",
+        "endTime": "00:00",
+        "_id": "667f139b1f87c3ed649ae215"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4108,
+        17.422136
+      ]
+    },
+    "_id": "667f14271f87c3ed649ae27d",
+    "area": "Jubilee Hills",
+    "name": "BMW Kun Exclusive Jubilee Hills - RechargeEV(24kw)",
+    "address": "Plot No.1 & 2 Survey No.403/1, Road, No.1, Srinagar Colony Main Rd, Nandagiri Hills, Jubilee Hills, Hyderabad, Telangana 500033, India",
+    "contact": "9999652785",
+    "capacity": 24,
+    "connectorsType": [
+      "CCS-II",
+      "GB/T"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f14271f87c3ed649ae27e"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f14271f87c3ed649ae27f"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f14271f87c3ed649ae280"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "667f14271f87c3ed649ae281"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "_id": "667f14271f87c3ed649ae282"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "_id": "667f14271f87c3ed649ae283"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "_id": "667f14271f87c3ed649ae284"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.450035,
+        17.429111
+      ]
+    },
+    "_id": "667f14d31f87c3ed649ae2fa",
+    "area": " Punjagutta",
+    "name": "L&T Mall Punjagutta",
+    "address": "L&T Mall, Next Galleria Mall, Punjagutta RD, Nagarjuna Hills, Punjagutta, Hyderabad, Telangana, 500082",
+    "contact": "8245463129",
+    "capacity": 20,
+    "connectorsType": [
+      "CCS-II",
+      "CHAdeMO"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f14d31f87c3ed649ae2fb"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "667f14d31f87c3ed649ae2fc"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "_id": "667f14d31f87c3ed649ae2fd"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "_id": "667f14d31f87c3ed649ae2fe"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "_id": "667f14d31f87c3ed649ae2ff"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "_id": "667f14d31f87c3ed649ae300"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f14d31f87c3ed649ae301"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.456696,
+        17.417677
+      ]
+    },
+    "_id": "667f154d1f87c3ed649ae385",
+    "area": "Punjagutta",
+    "name": "Hotel Mercur",
+    "address": "4th floor, Hotel Mercure, 6-3, 551, Banjara Hills Main Rd, Irram Manzil Colony, Punjagutta, Hyderabad, Telangana 500082, India",
+    "contact": "83496777832",
+    "capacity": 30,
+    "connectorsType": [
+      "GB/T",
+      "Bharat DC001"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f154d1f87c3ed649ae386"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f154d1f87c3ed649ae387"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f154d1f87c3ed649ae388"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "667f154d1f87c3ed649ae389"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "_id": "667f154d1f87c3ed649ae38a"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "14:00",
+        "endTime": "15:00",
+        "_id": "667f154d1f87c3ed649ae38b"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.45434,
+        17.436699
+      ]
+    },
+    "_id": "667f16011f87c3ed649ae537",
+    "area": "Ameerpet",
+    "name": "Marigold Hotel- Lioncharge",
+    "address": "7-1-25, Ameerpet Rd, Leelanagar, Begumpet",
+    "contact": "8252511180",
+    "capacity": 24,
+    "connectorsType": [
+      "GB/T",
+      "CHAdeMO"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "_id": "667f16011f87c3ed649ae538"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "_id": "667f16011f87c3ed649ae539"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f16011f87c3ed649ae53a"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "_id": "667f16011f87c3ed649ae53b"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "_id": "667f16011f87c3ed649ae53c"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.453804,
+        17.43645
+      ]
+    },
+    "_id": "667f16691f87c3ed649ae5d6",
+    "area": "Ameerpet",
+    "name": "Hotel Green Park",
+    "address": "Hotel Green Park, Ameerpet",
+    "contact": "9944311121",
+    "capacity": 30,
+    "connectorsType": [
+      "GB/T",
+      "CCS-II"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f16691f87c3ed649ae5d7"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f16691f87c3ed649ae5d8"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f16691f87c3ed649ae5d9"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "667f16691f87c3ed649ae5da"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "_id": "667f16691f87c3ed649ae5db"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.43054,
+        17.366308
+      ]
+    },
+    "_id": "667f17ee1f87c3ed649ae67f",
+    "area": "Attapur",
+    "name": "Aakruthi Meadows",
+    "address": "4-3-145/2 & B, Aakruthi meadows, Pillar no :377, Attapur, beside SNR Convention, Hyderabad - 500048",
+    "contact": "8172534654",
+    "capacity": 35,
+    "connectorsType": [
+      "Bharat DC001",
+      "CHAdeMO"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "22:00",
+        "endTime": "23:00",
+        "_id": "667f18ee1f87c3ed649aeae0"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "23:00",
+        "endTime": "00:00",
+        "_id": "667f18ee1f87c3ed649aeae1"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "00:00",
+        "endTime": "01:00",
+        "_id": "667f18ee1f87c3ed649aeae2"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "01:00",
+        "endTime": "02:00",
+        "_id": "667f18ee1f87c3ed649aeae3"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "02:00",
+        "endTime": "03:00",
+        "_id": "667f18ee1f87c3ed649aeae4"
+      }
+    ],
+    "__v": 5
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.42884,
+        17.368622
+      ]
+    },
+    "_id": "667f18a81f87c3ed649ae732",
+    "area": "Attapur",
+    "name": "Sahara evols",
+    "address": "1, Utkoor - Mogdumpur Rd, Radha Krishna Nagar, Attapur, Telangana 500006",
+    "contact": "8881112311",
+    "capacity": 22,
+    "connectorsType": [
+      "CCS-II",
+      "GB/T"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "_id": "667f18a81f87c3ed649ae733"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "_id": "667f18a81f87c3ed649ae734"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "667f18a81f87c3ed649ae735"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "667f18a81f87c3ed649ae736"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "667f18a81f87c3ed649ae737"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "667f18a81f87c3ed649ae738"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.3812,
+        17.4506
+      ]
+    },
+    "_id": "667f1ae31f87c3ed649aee96",
+    "area": "Hitech city",
+    "name": "Tata Power - Tejaswi Motors Charging Station",
+    "address": "Plot No. 4/14, Opp. Cyber Towers",
+    "contact": " 9246419559",
+    "capacity": 22,
+    "connectorsType": [
+      "CCS-II",
+      "CHAdeMO"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "15:00",
+        "endTime": "16:00",
+        "_id": "667f1ae31f87c3ed649aee97"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "16:00",
+        "endTime": "17:00",
+        "_id": "667f1ae31f87c3ed649aee98"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "_id": "667f1ae31f87c3ed649aee99"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "_id": "667f1ae31f87c3ed649aee9a"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.44808,
+        17.4919
+      ]
+    },
+    "_id": "66805ef991bebbcabb0d4871",
+    "area": "Balanagar",
+    "name": "Mahindra - Automotive Manufacturers Pvt Ltd Charging Station",
+    "address": "Mahendra Nagar, Chinthal, Quthbullapur, Hyderabad, Telangana 500054",
+    "contact": "8163458239",
+    "capacity": 30,
+    "connectorsType": [
+      "CCS-II",
+      "GB/T"
+    ],
+    "timeSlots": [
+      {
+        "date": "2024-07-01",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "_id": "66805ef991bebbcabb0d4872"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "_id": "66805ef991bebbcabb0d4873"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "_id": "66805ef991bebbcabb0d4874"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "_id": "66805ef991bebbcabb0d4875"
+      },
+      {
+        "date": "2024-07-01",
+        "startTime": "13:00",
+        "endTime": "14:00",
+        "_id": "66805ef991bebbcabb0d4876"
+      }
+    ],
+    "__v": 0
+  }
+]

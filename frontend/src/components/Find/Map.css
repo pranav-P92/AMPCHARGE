@@ -1,0 +1,19 @@
+#nearby{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    border-radius: 10px;
+    color: #fff;
+    width: auto;
+    padding: 5px;
+    font-weight: bold;
+    border: 1px solid transparent;
+    margin-top: -60px;
+    cursor: pointer;
+
+}
+#nearby:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    opacity: .5;
+    transform: scale(1.05);
+}

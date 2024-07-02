@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu Sans', sans-serif; /* Apply font family to all elements */
+    background-color: transparent;
+   
+}
+
+.navbar-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed; /* Change to fixed for sticky header */
+    width: 100%; /* Occupy full width */
+    left: 0;
+    top:0;
+    padding: 10px 20px; /* Adjust padding for spacing */
+    background-color: transparent; /* Background color for navbar */
+    z-index: 1000; /* Ensure it stays on top */
+}
+
+.title img {
+    width: 300px; /* Adjust logo size */
+}
+
+#bar {
+    font-size: 32px; /* Decrease font size for better fit */
+}
+
+.navlinks {
+    display: flex;
+    gap: 80px; /* Adjust gap between links */
+
+}
+
+.navlinks a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px; /* Decrease font size for better readability on smaller screens */
+    
+}
+
+.navlinks a:hover {
+    color:#075369;
+    text-decoration: underline;
+    transition: color 0.3s;
+    text-underline-offset: 1rem;
+  
+  
+}
+
+/* Media Queries */
+@media screen and (max-width: 1024px) {
+    /* For 15.6-inch laptops and smaller desktops */
+    *{
+        font-size: 18px;
+    }
+    .title img {
+        width: 160px; /* Adjust logo size */
+    }
+
+    .navlinks {
+        gap: 30px; /* Adjust gap between links */
+    }
+
+    .navlinks a {
+        font-size: 14px; /* Decrease font size further for smaller screens */
+    }
+}
+
+@media screen and (max-width: 768px) {
+    /* For tablets and mobile phones */
+    *{
+        font-size: 18px;
+    }
+    .navbar-container {
+        padding: 0px; /* Adjust padding for smaller screens */
+    }
+
+    .title img {
+        width: 140px; /* Further reduce logo size */
+    }
+
+    .navlinks {
+        display: none; /* Hide links by default on mobile */
+        flex-direction: column; /* Stack links vertically */
+        position: absolute; /* Position links absolutely for mobile toggle */
+        background-color: transparent; /* Background color for mobile nav */
+        width: 100%; /* Occupy full width */
+        top: 60px; /* Adjust position below navbar */
+        left: 0;
+        text-align: center; /* Center align links */
+        padding: 10px 0; /* Adjust padding */
+        z-index: 999; /* Ensure it stays above other content */
+    }
+
+    .navlinks.active {
+        display: flex; /* Show links when active (mobile menu open) */
+    }
+
+    .navlinks a {
+        font-size: 18px; /* Increase font size for mobile */
+        padding: 10px 0; /* Adjust padding for mobile links */
+    }
+}

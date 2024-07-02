@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'ubuntu sans';
+}
+
+.adminLogin {
+    background-image: url('./assets/bg.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.admcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.admbox {
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 80%; /* Adjusted for smaller screens */
+    max-width: 500px; /* Limit box width on larger screens */
+    height: 60vh;
+    max-height: 80%; /* Limit box height */
+    overflow-y: auto; /* Add scrollbar if content exceeds height */
+    box-sizing: border-box; /* Ensure padding and border fit within specified width */
+}
+
+.admuser a {
+    margin-top: 12px;
+}
+
+.admheader {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.admLogin-lbl {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    box-shadow: none;
+    padding: 10px 35px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.admuser {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+.admuser input {
+    border: none;
+    border-bottom: 1px solid black;
+    background: transparent;
+    position: relative;
+    padding: 15px 1px;
+    outline: 0;
+}
+
+#adminlogin {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: none;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    width: 50%;
+    margin-left: 115px;
+    
+    
+}
+
+#admin {
+    margin-top: 20px;
+    color: black;
+    text-decoration: underline;
+}
+
+/* Media Queries for Responsive Design */
+
+@media screen and (max-width: 1366px) {
+    /* Styles for 14-inch desktops */
+    .admbox {
+        width: 50%;
+        height: 70vh;
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    /* Styles for 15.6-inch desktops */
+    .admbox {
+        width: 90%; /* Adjust width for smaller screens */
+        height: 70vh; /* Auto height for mobiles to fit content */
+        max-height: none; /* Reset max-height for mobiles */
+        overflow-y: visible;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    /* Styles for mobile phones */
+    .admbox {
+        width: 90%;
+        height: auto;
+        padding: 20px;
+    }
+}
