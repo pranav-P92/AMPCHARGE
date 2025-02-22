@@ -23,7 +23,7 @@ const mapStyle = {
 };
 
 const mapOptions = {
-  mapId: 'f4b8d499673b689b', // Replace with your actual map style ID
+  mapId: [ENTER-YOUR-MAP-ID], // Replace with your actual map style ID
 };
 
 const Map = ({ stations, selectedCard, mapRef }) => {
