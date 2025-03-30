@@ -2,38 +2,43 @@
     margin: 0;
     padding: 0;
     font-family: 'Ubuntu Sans', sans-serif;
+    box-sizing: border-box; /* Ensures padding and border do not affect total width */
 }
 
 .login {
     background-image: url('./assets/bg3.jpg');
-    height: 100vh;
+    min-height: 100vh; /* Ensure full viewport height */
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .lgcontainer {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh; /* Ensures centering even on smaller screens */
+    width: 100%;
 }
 
 .lgbox {
-    border: 1px solid black;
+   
     padding: 15px;
+    padding-top: 50px;
     border-radius: 20px;
     background-color: rgba(255, 255, 255, 0.7);
-    width: 80%; /* Adjusted for smaller screens */
+    width: 80%; /* Adjusted for responsiveness */
     max-width: 500px; /* Limit box width on larger screens */
-    height: 60vh;
-    max-height: 80%; /* Limit box height */
-    overflow-y: auto; /* Add scrollbar if content exceeds height */
-    box-sizing: border-box; /* Ensure padding and border fit within specified width */
+    min-height: 50vh; /* Ensures enough space but adapts */
+    max-height: 90vh; /* Prevents excess height */
+    overflow-y: auto; /* Scroll only if necessary */
 }
 
 .lgheader {
     display: flex;
     justify-content: center;
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 .login-lbl, .register-lbl {
@@ -42,41 +47,36 @@
     background-color: black;
     padding: 10px 25px;
     border-radius: 10px;
-    text-decoration: none; /* Remove underline from links */
+    text-decoration: none;
 }
 
 .register-lbl {
     color: black;
     background-color: white;
     border: 1px solid black;
-    
 }
-#reglbl{
+
+#reglbl {
     text-decoration: none;
-    color:black;
+    color: black;
 }
 
 .user {
     display: flex;
     flex-direction: column;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 .user input {
     border: none;
     border-bottom: 1px solid black;
     background: transparent;
-    position: relative;
-    padding: 15px 1px;
-    outline: none;
-}
-
-.user input:focus {
+    padding: 15px;
     outline: none;
 }
 
 .signin, .signup {
-    padding: 10px;
+    padding:30px;
     text-align: center;
 }
 
@@ -94,7 +94,6 @@
     border-radius: 10px;
     margin-top: 15px;
     cursor: pointer;
-    box-shadow: none;
 }
 
 .signin button:hover, .signup button:hover {
@@ -105,20 +104,20 @@
 @media screen and (min-width: 768px) {
     /* For desktops and larger tablets */
     .lgbox {
-        width: 50%; /* Adjust width for desktops */
-        height: 70vh; /* Adjust height for desktops */
+        width: 50%; /* Reduce width for larger screens */
+        min-height: 60vh; /* Ensures proper content fit */
     }
 }
 
 @media screen and (max-width: 767px) {
     /* For mobile phones and smaller tablets */
     .lgbox {
-        width: 90%; /* Adjust width for smaller screens */
-        height: auto; /* Auto height for mobiles to fit content */
-        max-height: none; /* Reset max-height for mobiles */
-        overflow-y: visible; /* Allow content to expand */
+        width: 90%; /* Full width on smaller screens */
+        min-height: auto; /* Adjust height dynamically */
+        max-height: none; /* Prevents unnecessary restrictions */
+        overflow-y: visible; /* Expands with content */
     }
-
+    
     .signup button {
         padding: 10px 20px; /* Adjust button padding for smaller screens */
     }
